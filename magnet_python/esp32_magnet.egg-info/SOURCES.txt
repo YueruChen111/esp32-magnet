@@ -1,0 +1,9 @@
+README.md
+setup.py
+esp32_magnet/Magnet.py
+esp32_magnet/__init__.py
+esp32_magnet.egg-info/PKG-INFO
+esp32_magnet.egg-info/SOURCES.txt
+esp32_magnet.egg-info/dependency_links.txt
+esp32_magnet.egg-info/requires.txt
+esp32_magnet.egg-info/top_level.txt
